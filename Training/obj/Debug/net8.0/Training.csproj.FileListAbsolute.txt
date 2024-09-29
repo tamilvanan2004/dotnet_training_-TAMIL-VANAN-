@@ -1,0 +1,14 @@
+E:\donnet besant\Training\Training\bin\Debug\net8.0\Training.exe
+E:\donnet besant\Training\Training\bin\Debug\net8.0\Training.deps.json
+E:\donnet besant\Training\Training\bin\Debug\net8.0\Training.runtimeconfig.json
+E:\donnet besant\Training\Training\bin\Debug\net8.0\Training.dll
+E:\donnet besant\Training\Training\bin\Debug\net8.0\Training.pdb
+E:\donnet besant\Training\Training\obj\Debug\net8.0\Training.GeneratedMSBuildEditorConfig.editorconfig
+E:\donnet besant\Training\Training\obj\Debug\net8.0\Training.AssemblyInfoInputs.cache
+E:\donnet besant\Training\Training\obj\Debug\net8.0\Training.AssemblyInfo.cs
+E:\donnet besant\Training\Training\obj\Debug\net8.0\Training.csproj.CoreCompileInputs.cache
+E:\donnet besant\Training\Training\obj\Debug\net8.0\Training.dll
+E:\donnet besant\Training\Training\obj\Debug\net8.0\refint\Training.dll
+E:\donnet besant\Training\Training\obj\Debug\net8.0\Training.pdb
+E:\donnet besant\Training\Training\obj\Debug\net8.0\Training.genruntimeconfig.cache
+E:\donnet besant\Training\Training\obj\Debug\net8.0\ref\Training.dll
